@@ -4,6 +4,18 @@ html {
   height: 100%;
 }
 
+.fa-phone:before {
+    content: "\f095";
+    color: #fff;
+}
+
+.fa-envelope-o:before {
+    content: "\f003";
+        color: #fff;
+
+}
+
+
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
     background-image: url("../img/kikourban-08-01.png");
